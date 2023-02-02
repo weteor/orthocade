@@ -9,7 +9,7 @@ a group of keyboards exploring orthogonal designs. Case designs allowing for an 
 - [Spc Evdr](https://github.com/weteor/SPC_EVDR) - 10u, recessed space (5.5u), encoder, display
 - [Dig Dug](https://github.com/weteor/DigDug) - 12u, exploded keyblocks, recessed space (6.25u)
 - [Brk Out](https://github.com/weteor/BrkOut) - 10u, split alphas, recessed space (6u)
-- [Froggr](https://github.com/weteor/Frogger) - 12u, recessed bottom row, 6u space 
+- [Froggr](https://github.com/weteor/Froggr) - 12u, recessed bottom row, 6u space 
 
 ### want one?
 
