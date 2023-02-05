@@ -1,6 +1,6 @@
 # Orthocade Keyboards
 
-a group of keyboards exploring orthogonal designs. Case designs allowing for an 3mm lasercut inlay to customize the look.
+a group of keyboards exploring ortholinear designs. Case designs allowing for an 3mm lasercut inlay to customize the look.
 
 ![top](img/top.png)
 
